@@ -1,5 +1,0 @@
-﻿name=senss
-owner_id=EdmsTKiuld
-version=1.0
-secret=3303f166b58e6166dfabfae52cbc1f57db55ce871e18d4b0e703d901f131415d
-file_hash=9d47130c7c538d4a91a133efdec378f9cb6b7b15847c2905e12e7cb5e62020d6
